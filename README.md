@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 <!--
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -9,14 +12,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
--->
+
 **Hanno-stud/Hanno-stud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
 - 🌱 I’m currently learning ...
 
 [![Ivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanno-stud)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+Resource: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#hiding-individual-stats
+-->
