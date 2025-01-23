@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning ...
 
-[![Ivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanno-stud)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Ivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanno-stud&theme=calm_pink&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 Resource: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#hiding-individual-stats
 -->
