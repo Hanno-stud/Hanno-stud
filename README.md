@@ -32,15 +32,31 @@
 
 ## 📊 GitHub Stats &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=Hanno-stud&label=Profile%20views&color=0e75b6&style=flat" alt="Hanno-stud" />
 
-<p align="center">
-<a href="https://github.com/Hanno-stud"><img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanno-stud&theme=tokyonight&hide_border=true"></a>
+<!-- 1st image -->
+<div align="left">
+  <div style="display:inline-block; text-align:center;">
+    <a href="https://github.com/Hanno-stud"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanno-stud&theme=tokyonight&hide_border=true" width="250" style="max-width:100%; height:auto;"> </a>
+  </div>
 
-<a href="https://github.com/Hanno-stud"><img width="55%" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanno-stud&theme=tokyonight&hide_border=true"></a>
+  <!-- 2nd image -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="15" />
+  <div style="display:inline-block; text-align:center;">
+    <a href="https://github.com/Hanno-stud"> <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanno-stud&theme=tokyonight&hide_border=true" width="250" style="max-width:100%; height:auto;"></a>
+  </div>
+  
 
-<br />
-<br />
+  <!-- 3rd image -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="15" />
+  <div style="display:inline-block; text-align:center;">
+    <a href="https://github.com/Hanno-stud"> <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanno-stud&theme=tokyonight&hide_border=true" width="250" style="max-width:100%; height:auto;"> </a>
+  </div>
 
-<a href="https://github.com/Hanno-stud"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanno-stud&theme=tokyonight&hide_border=true"></a>
+  <!-- 4th image -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="15" />
+  <div style="display:inline-block; text-align:center;">
+    <a href="https://github.com/Hanno-stud"> <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Hanno-stud&theme=calm_pink&show_icons=true" width="250" style="max-width:100%; height:auto;"></a>
+  </div>
+</div>
 
-[![Ivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanno-stud&theme=calm_pink&show_icons=true)](https://github.com/Hanno-stud)
-</p>
+           
+
