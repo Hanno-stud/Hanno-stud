@@ -30,18 +30,17 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
-<a href="https://github.com/Hanno-stud"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanno-stud&theme=tokyonight&hide_border=true"></a>
-<a href="https://github.com/Hanno-stud"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanno-stud&theme=tokyonight&hide_border=true"></a>
-<br />
-<br />
-<a href="https://github.com/Hanno-stud"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanno-stud&theme=tokyonight&hide_border=true"></a>
-<br>
-<br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hanno-stud&label=Profile%20views&color=0e75b6&style=flat" alt="Hanno-stud" /> </p>
+## 📊 GitHub Stats &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=Hanno-stud&label=Profile%20views&color=0e75b6&style=flat" alt="Hanno-stud" />
 
-[![Ivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanno-stud&theme=calm_pink&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-Resource: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#hiding-individual-stats
--->
+<p align="center">
+<a href="https://github.com/Hanno-stud"><img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanno-stud&theme=tokyonight&hide_border=true"></a>
+
+<a href="https://github.com/Hanno-stud"><img width="55%" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanno-stud&theme=tokyonight&hide_border=true"></a>
+
+<br />
+<br />
+
+<a href="https://github.com/Hanno-stud"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanno-stud&theme=tokyonight&hide_border=true"></a>
+
+[![Ivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanno-stud&theme=calm_pink&show_icons=true)](https://github.com/Hanno-stud)
+</p>
