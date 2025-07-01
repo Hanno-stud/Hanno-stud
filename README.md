@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Ivin Santhosh 👋</h1>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&color=04e0bb&lines=Exploring+Cloud+and+DevOps+☁️;Building+Real-World+Projects+🌍;A+Passionate+Java+Programmer+☕)
-
+<div align="center" width="100%">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&color=04e0bb&lines=Exploring+Cloud+and+DevOps+☁️;Building+Real-World+Projects+🌍;A+Passionate+Java+Programmer+☕)
+  
+</div>
 
 ## 🚀 About Me
 
